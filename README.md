@@ -11,7 +11,7 @@ inspirada em gerenciadores nativos de sistemas operacionais.
 - Java (JDK 21.0.6 LTS)
 - Orientação a Objetos
 - JavaFX
-- OSHI
+- [OSHI](https://github.com/oshi/oshi)
 - Maven
 
 ## 👁‍🗨Nele, é possível ver métricas de:
