@@ -1,4 +1,4 @@
-package com.github.isaacmartinscode.metriks.model.service;
+package com.github.isaacmartinscode.metriks.service;
 
 import com.github.isaacmartinscode.metriks.model.entities.hardware.networkAdapter;
 import javafx.collections.FXCollections;
