@@ -1,4 +1,4 @@
-package com.github.isaacmartinscode.metriks.model.service;
+package com.github.isaacmartinscode.metriks.service;
 
 import oshi.SystemInfo;
 import oshi.hardware.CentralProcessor;

@@ -1,4 +1,4 @@
-package com.github.isaacmartinscode.metriks.model.util;
+package com.github.isaacmartinscode.metriks.util;
 
 import com.github.isaacmartinscode.metriks.application.Program;
 import javafx.fxml.FXMLLoader;

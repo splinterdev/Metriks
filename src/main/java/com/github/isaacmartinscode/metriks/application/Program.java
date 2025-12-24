@@ -1,9 +1,9 @@
 package com.github.isaacmartinscode.metriks.application;
 
-import com.github.isaacmartinscode.metriks.model.service.CpuMetric;
-import com.github.isaacmartinscode.metriks.model.service.DiskMetric;
-import com.github.isaacmartinscode.metriks.model.service.MemMetric;
-import com.github.isaacmartinscode.metriks.model.service.NetworkMetric;
+import com.github.isaacmartinscode.metriks.service.CpuMetric;
+import com.github.isaacmartinscode.metriks.service.DiskMetric;
+import com.github.isaacmartinscode.metriks.service.MemMetric;
+import com.github.isaacmartinscode.metriks.service.NetworkMetric;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;

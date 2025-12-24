@@ -1,8 +1,8 @@
 package com.github.isaacmartinscode.metriks.controller;
 
 import com.github.isaacmartinscode.metriks.model.entities.process.Process;
-import com.github.isaacmartinscode.metriks.model.service.MemMetric;
-import com.github.isaacmartinscode.metriks.model.util.ChangeView;
+import com.github.isaacmartinscode.metriks.service.MemMetric;
+import com.github.isaacmartinscode.metriks.util.ChangeView;
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.collections.ObservableList;
