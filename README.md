@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/e5d216a8-f538-4373-a065-4449fb530631" width=380px height=100px>
-
-# 🖥Monitor de processos e gerenciador de Hardware
-
+  
+# Monitor de processos e gerenciador de Hardware
+  
 Monitor de processos em Java, que usa a biblioteca **OSHI** para informações de 
 processos / hardware e **JavaFX** para visualização das métricas, com interface intuitiva 
 inspirada em gerenciadores nativos de sistemas operacionais.
@@ -14,14 +14,14 @@ inspirada em gerenciadores nativos de sistemas operacionais.
 - [OSHI](https://github.com/oshi/oshi)
 - Maven
 
-## 👁‍🗨Nele, é possível ver métricas de:
+## É possível ver métricas de:
 
 - Processador
 - Memória RAM
 - Disco
 - Rede
 
-A seguir, screenshots de cada view e o que é possível ver.
+A seguir, screenshots de cada view.
 
 ## 🧮 Processador: 
 ![CpuView](https://github.com/user-attachments/assets/53e05398-7725-491f-b3f9-639326787567)
