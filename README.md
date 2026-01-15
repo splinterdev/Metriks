@@ -8,7 +8,7 @@ inspirada em gerenciadores nativos de sistemas operacionais.
 
 ## Conceitos e tecnologias utilizadas: 
 
-- Java (JDK 21.0.6 LTS)
+- Java 21
 - Orientação a Objetos
 - JavaFX
 - [OSHI](https://github.com/oshi/oshi)
