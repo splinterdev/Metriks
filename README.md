@@ -1,10 +1,13 @@
-<img src="https://github.com/user-attachments/assets/e5d216a8-f538-4373-a065-4449fb530631" width=380px height=100px>
-  
+<img src="https://github.com/user-attachments/assets/e5d216a8-f538-4373-a065-4449fb530631" width=380px height=100px> 
+
 # Monitor de processos e gerenciador de Hardware
   
 Monitor de processos em Java, que usa a biblioteca **OSHI** para informações de 
 processos / hardware e **JavaFX** para visualização das métricas, com interface intuitiva 
 inspirada em gerenciadores nativos de sistemas operacionais.
+
+## Compatível com: 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=A8E4A0)
 
 ## Conceitos e tecnologias utilizadas: 
 
@@ -21,7 +24,7 @@ inspirada em gerenciadores nativos de sistemas operacionais.
 - Disco
 - Rede
 
-A seguir, screenshots de cada view.
+## Screenshots e detalhes das funcionalidades
 
 ## Processador: 
 ![CpuView](https://github.com/user-attachments/assets/53e05398-7725-491f-b3f9-639326787567)
