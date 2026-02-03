@@ -1,4 +1,11 @@
-<img src="https://github.com/user-attachments/assets/e5d216a8-f538-4373-a065-4449fb530631" width=380px height=100px> 
+<img src="https://github.com/user-attachments/assets/e5d216a8-f538-4373-a065-4449fb530631" width=380px height=100px>
+<br>
+<br>
+
+![Java 21.0.6](https://img.shields.io/badge/Java-21.0.6-f08c00?style=flat&logo=openjdk&logoColor=white) 
+![JavaFX 23.0.1](https://img.shields.io/badge/JavaFX-23.0.1-0078D7?style=flat&logo=javafx&logoColor=white) 
+[![OSHI 6.8.3](https://img.shields.io/badge/OSHI-6.8.3-25bf0d?style=flat&logo=java&logoColor=white)](https://github.com/oshi/oshi) 
+![Maven](https://img.shields.io/badge/Maven-3.9.9-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
 # Monitor de processos e gerenciador de Hardware
   
@@ -8,14 +15,6 @@ inspirada em gerenciadores nativos de sistemas operacionais.
 
 ## Compatível com: 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=A8E4A0)
-
-## Conceitos e tecnologias utilizadas: 
-
-- Java 21
-- Orientação a Objetos
-- JavaFX
-- [OSHI](https://github.com/oshi/oshi)
-- Maven
 
 ## É possível ver métricas de:
 
